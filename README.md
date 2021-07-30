@@ -9,7 +9,8 @@ Script 2: Se usa track para extraer datos usando palabras claves 'juegos', 'olim
 Script 3: Se obtiene datos de la pagina de los juegos olímpicos, y se lo hace de las noticias destacadas a través de 'span'
 ![webScrapping](https://user-images.githubusercontent.com/58042215/127720388-d5c03a68-010c-4ece-87e1-ee385a69a4aa.PNG)
 
-Script 4:
+Script 4: Para la obtencion de datos a traves de facebook se proporcionan credenciales de una cuenta ya excistente en la plataforma, en este caso, mias. y se realiza la asignación de los datos a MongoDB
+![facebookOlimpiadas](https://user-images.githubusercontent.com/58042215/127721391-896959d8-654c-4792-a4c0-5d7ce2bede4a.PNG)
 
 Script 5:
 

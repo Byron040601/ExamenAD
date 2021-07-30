@@ -44,4 +44,3 @@ except:
 '''===============LOCATIONS=============='''
 
 twitterStream.filter(locations=[129.19,31.0,143.53,40.58])
-#twitterStream.filter(track=['fortnite', 'freefire'])

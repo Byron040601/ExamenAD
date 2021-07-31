@@ -12,7 +12,9 @@ Script 3: Se obtiene datos de la pagina de los juegos olímpicos, y se lo hace d
 Script 4: Para la obtencion de datos a traves de facebook se proporcionan credenciales de una cuenta ya excistente en la plataforma, en este caso, mias. y se realiza la asignación de los datos a MongoDB
 ![facebookOlimpiadas](https://user-images.githubusercontent.com/58042215/127721391-896959d8-654c-4792-a4c0-5d7ce2bede4a.PNG)
 
-Script 5:
+Script 5: Se crean las tablas en SQLite con los usuarios Oscar.Arr y Olympics 
+![oscarsqlite](https://user-images.githubusercontent.com/58042215/127723563-66272b15-740a-41a9-b8e4-60a516732aff.PNG)
+![olympicssqlite](https://user-images.githubusercontent.com/58042215/127723564-4d0a1d27-16cf-4f85-8de5-dc24f889620c.PNG)
 
 Script 6:
 

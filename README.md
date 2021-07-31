@@ -17,7 +17,8 @@ Script 5: Se crean las tablas en SQLite con los usuarios Oscar.Arr y Olympics, s
 ![oscarsqlite](https://user-images.githubusercontent.com/58042215/127723563-66272b15-740a-41a9-b8e4-60a516732aff.PNG)
 ![olympicssqlite](https://user-images.githubusercontent.com/58042215/127723564-4d0a1d27-16cf-4f85-8de5-dc24f889620c.PNG)
 
-Script 6:
+Script 6: Para los datos obtenidos de TikTok se exportaron los archivos.json de SQLite para poderlos importar en MongoDB
+![de SDLite a MongoDB](https://user-images.githubusercontent.com/58042215/127723776-35d4faf7-5d46-472b-ad9a-0fd99832a49f.PNG)
 
 Script 7:
 

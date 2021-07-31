@@ -23,7 +23,8 @@
 #Script 7: Se uso la conexion de CouchDB para pasar los datos a MongoDB
 ![de SDLite a MongoDB](https://user-images.githubusercontent.com/58042215/127724318-b91f1157-231b-4c94-87cb-c7c335f95a55.PNG)
 
-# Script 8:
+# Script 8: Se intento realizar la conexion a MongoDB Atlas
+![mongodbAmongoAtlas](https://user-images.githubusercontent.com/58042215/127725311-603ab48c-97ee-44ea-88a8-59e809b721d3.PNG)
 
 # Script 9:
 

@@ -30,9 +30,9 @@ for db in DBS:
         cols = client[db].list_collection_names()
         for col in cols:
             print('Querying documents from collection {} in database {}'.format(col, db))
-            for x in client[db][col].find():
+            for datos in client[db][col].find():
                 try:
-                    documents = json.loads(json_util.dumps(x))
+                    documents = json.loads(json_util.dumps(datos))
                     db2.insert_many(documents)
                     print("SAVE")
                     print(documents)

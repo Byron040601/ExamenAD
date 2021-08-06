@@ -7,10 +7,10 @@ import json
 
 
 ###API ########################
-ckey = "YxSIuUqv01pxuROAxrvKW1zkS"
-csecret = "4HSzn5PvQ9UAsyw0MgzAlQYG5OkofvYQjzhSLcvWVE3ntROHmS"
-atoken = "1064745937552195589-gl9Y7hih9w0BjTddHWwD1yjuGL4fAg"
-asecret = "lkccuyOeyMmPQdYKAL071hAV4rpb5x1lEtzeP82cKwzJj"
+ckey = "******"
+csecret = "******"
+atoken = "*******"
+asecret = "*******"
 #####################################
 
 class listener(StreamListener):

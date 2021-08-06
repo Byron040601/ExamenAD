@@ -25,7 +25,7 @@ db = Client["ejemploE"]
 Collection = db["facebookOlimpiadas"]
 
 i = 1
-for post in get_posts('Olympics', pages=50, extra_info=True, credentials=('magicblack_bh@hotmail.com', '1726241829')):
+for post in get_posts('Olympics', pages=50, extra_info=True, credentials=('EMAIL', 'CONTRASEÑA')):
     print(i)
     i = i + 1
     time.sleep(5)
